@@ -5,9 +5,9 @@ const form = document.getElementById("form");
 const search = document.getElementById("search");
 
 const recentUsers = document.getElementById("recentUsers");
-let usersHistory = ["hoangsonww"];
+let usersHistory = ["Ankit7rma"];
 
-getUser("hoangsonww");
+getUser("Ankit7rma");
 
 async function getUser(username) {
   showLoading();

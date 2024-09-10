@@ -23,19 +23,24 @@ The GitPeek App is a sleek, user-friendly web application designed to provide qu
 ## How to Use
 
 1. **Search for a User**
+
    - Type a GitHub username into the search bar and press enter.
    - The app will display detailed information about the user.
 
 2. **View User Repositories**
+
    - The user’s top repositories are displayed at the bottom of the user card.
 
 3. **Navigate to About Page**
+
    - Click the "About" button below the user card to learn more about the app.
 
 4. **Toggle Dark Mode**
+
    - Click the "Toggle Dark Mode" button at the top of the page to switch between light and dark themes.
 
 5. **View Recent Users**
+
    - Recently searched users are displayed at the bottom for quick access.
 
 6. **User Not Found**
@@ -55,9 +60,11 @@ This app uses the GitHub API to fetch user data. The API has a rate limit of 60 
 ### Steps
 
 1. Clone this repository or download the ZIP file.
-   - `git clone https://github.com/hoangsonww/The-GitPeek-App.git`
+
+   - `git clone https://github.com/Ankit7rma/The-GitFetch-App`
 
 2. Navigate to the project directory.
+
    - `cd The-GitPeek-App`
 
 3. Open the `index.html` file in your web browser.
